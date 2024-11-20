@@ -1,46 +1,49 @@
+Got it! Here's the updated version with the name changed to **StoriX**:
+
+---
+
 <div align="center">
   <img src="./public/banner.png.jpeg" width="700"/>
   <br/><br/>
-  <img alt="Stars" src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge">
+  <img alt="Build Status" src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge">
   <img alt="Forks" src="https://img.shields.io/github/forks/imsaptarshi/storehouse?style=for-the-badge">
   <img alt="Stars" src="https://img.shields.io/github/stars/imsaptarshi/storehouse?style=for-the-badge">
 </div>
 <br>
 
-# 🚀 Storehouse <sup>beta</sup>
+# 🚀 StoriX <sup>Beta</sup>
 
-Secure cloud storage on-chain leveraging IPFS with better UX
+Decentralized Cloud Storage Powered by IPFS, with Enhanced User Experience
 
-Demo: https://0xstorehouse.vercel.app
+🔗 **Demo:** [https://0xstorehouse.vercel.app](https://0xstorehouse.vercel.app)
 
-## 💡 The Idea
+## 💡 About StoriX
 
-In this modern world of technology, our data is in the hands of many big companies. Web 3.0 introduces the concept of decentralisation, in short, the flow and storage of data, without the need of any central authority.
+In an age where our data is controlled by large corporations, Web 3.0 introduces a new paradigm of decentralization—allowing the storage and flow of data without relying on a central authority.
 
-And Storehouse is based on the idea of decentralisation to make the most secure personal storage for one.
+StoriX embodies this vision, providing the most secure personal cloud storage solution through decentralized technologies. By leveraging the InterPlanetary File System (IPFS) and blockchain, StoriX enables users to upload, store, and share their files with enhanced security and privacy, all while offering a seamless user experience.
 
-Leveraging the use-cases of IPFS at the same time, we can enable users to depend on IPFS as their cloud storage platform through Storehouse. Storehouse makes an easy interface for users to upload their encrypted files on IPFS and serving it as their cloud storage on-chain.
+## ⭐ Key Features
 
-## ⭐ Features
+- **Effortless File Storage:** Upload any file type directly onto the Polygon network via an intuitive interface.
+- **End-to-End Encryption:** Your files are encrypted and secure, eliminating concerns about data piracy.
+- **Seamless Sharing:** Easily share your files on-chain with other users.
+- **Blockchain Powered:** Built on blockchain technology to ensure transparency and immutability.
 
-- Store any kind of file in a seemlessly easy way on Polygon.
-- Dont worry about data piracy, your files are end-to-end encrypted
-- Share your files between other users on chain
-- Based on blockchain technology
+## 🌠 Technologies
 
-## 🌠 Technologies used
+- **Frontend:** Next.js (React Framework)
+- **UI:** Chakra UI (for a sleek, responsive user experience)
+- **Blockchain:** Polygon Network
+- **File Storage:** IPFS & Filecoin
+- **Domain Management:** ENS (Ethereum Name Service)
+- **Push Notifications:** Push Protocol
+- **Infrastructure:** Infura, Thirdweb
+- **External Libraries:** Various JavaScript Libraries for enhanced functionality
 
-- NextJS [Frontend Framework]
-- Chakra UI [UI Framework]
-- Polygon
-- IPFS / Filecoin
-- ENS
-- Push Protocol
-- Infura
-- Thirdweb
-- External Javascript Libraries
+## 📜 Smart Contract
 
-## Contracts
+The StoriX contract is now deployed on the **Sepolia Ethereum Testnet**. 
 
-Storehouse https://mumbai.polygonscan.com/address/0xc64a998AB01e1401181726cfd55831b9648fB522
-# StoriX
+- **Contract Address:** [0x2e030A7a4Dc8a4b2e510B3fA116EbAAa7e967C8f](https://sepolia.etherscan.io/address/0x2e030A7a4Dc8a4b2e510B3fA116EbAAa7e967C8f
+- 
