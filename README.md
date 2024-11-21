@@ -13,9 +13,7 @@ Got it! Here's the updated version with the name changed to **StoriX**:
 
 # 🚀 StoriX <sup>Beta</sup>
 
-Decentralized Cloud Storage Powered by IPFS, with Enhanced User Experience
-
-🔗 **Demo:** [https://0xstorehouse.vercel.app](https://0xstorehouse.vercel.app)
+Decentralized Cloud Storage Powered by IPFS, with Enhanced User experience 
 
 ## 💡 About StoriX
 
