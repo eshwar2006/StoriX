@@ -3,7 +3,7 @@ Got it! Here's the updated version with the name changed to **StoriX**:
 ---
 
 <div align="center">
-  <img src="./public/banner.png.jpeg" width="700"/>
+  
   <br/><br/>
   <img alt="Build Status" src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge">
   <img alt="Forks" src="https://img.shields.io/github/forks/imsaptarshi/storehouse?style=for-the-badge">
